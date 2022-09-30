@@ -1,6 +1,7 @@
-# api-sdk-php
-Garpa.de Onlineshop - API SDK for PHP
+# Garpa.de Onlineshop - API SDK for PHP
+
 Install
+PHP client for <a href="https://www.garpa.de">Garpa.de</a> Onlineshop API.  
 
 via Composer
 $ composer require mhmtbsbyndr/api-sdk
