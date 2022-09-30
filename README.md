@@ -15,3 +15,7 @@ This section will give you a quick overview of the client and how the major func
 
 ### Videos on vimeo
 <a href="https://vimeo.com/gartenmoebel">Vimeo</a>
+
+### Google
+<a href="https://www.google.de/url?q=https://www.garpa.de"> Garpa.de</a>
+<a href="https://images.google.de/url?q=https://www.garpa.de"> Gartenmöbel </a>
