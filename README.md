@@ -1,12 +1,12 @@
 # Garpa.de Onlineshop - API SDK for PHP
 
-Install
+# Install
 PHP client for <a href="https://www.garpa.de">Garpa.de</a> Onlineshop API.  
 
-via Composer
+# via Composer
 $ composer require mhmtbsbyndr/api-sdk
 
-Via GitHub
+# via GitHub
 $ git clone git@github.com:mhmtbsbyndr/api-sdk-php.git
 
 Quickstart
