@@ -19,3 +19,4 @@ This section will give you a quick overview of the client and how the major func
 ### Google
 <a href="https://www.google.de/url?q=https://www.garpa.de"> Garpa.de</a>
 <a href="https://images.google.de/url?q=https://www.garpa.de"> Gartenmöbel </a>
+<a href="https://bit.ly/3UN6FhL"> Garpa.de API </a>
